@@ -56,7 +56,6 @@ class RandomQuotes extends Component {
             >
               <AiOutlineTwitter />
             </a>
-            <Button variant="outline-success">Success</Button>
             <Button
               className="button"
               id="new-quote"
@@ -66,10 +65,6 @@ class RandomQuotes extends Component {
               <AiOutlineSync />
             </Button>
             <>
-  <Button href="#">Link</Button> <Button type="submit">Button</Button>{' '}
-  <Button as="input" type="button" value="Input" />{' '}
-  <Button as="input" type="submit" value="Submit" />{' '}
-  <Button as="input" type="reset" value="Reset" />
 </>
           </div>
         </div>
