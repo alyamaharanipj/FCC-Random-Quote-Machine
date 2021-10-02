@@ -10,5 +10,7 @@ This project is intended to complete one of freeCodeCamp challenge from 'Front E
 
 # Screenshot
 ![alt tag](https://github.com/alyamaharanipj/FCC-Random-Quote-Machine/blob/main/public/images/quote-1.png)
+
 ![alt tag](https://github.com/alyamaharanipj/FCC-Random-Quote-Machine/blob/main/public/images/quote-2.png)
+
 ![alt tag](https://github.com/alyamaharanipj/FCC-Random-Quote-Machine/blob/main/public/images/quote-3.png)
