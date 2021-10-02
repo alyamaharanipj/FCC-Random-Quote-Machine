@@ -7,3 +7,6 @@ This project is intended to complete one of freeCodeCamp challenge from 'Front E
 - Generate a random quote.
 - Share a quote to twitter.
 - Change color when random quote is generated.
+
+# Screenshot
+https://github.com/alyamaharanipj/FCC-Random-Quote-Machine/blob/main/public/images/quote-1.png
